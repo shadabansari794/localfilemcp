@@ -25,6 +25,14 @@ A local file management agent built with LangChain, LangGraph, and Model Context
 
 ## Usage
 
+### File server
+
+Run the file server
+
+python file_Server.py
+
+then in different terminal
+
 ### File Agent
 
 Run the file agent:
